@@ -1,0 +1,4 @@
+interface:
+  display_name: "Amazon Books Workflow"
+  short_description: "Research, write, and publish books step by step"
+
